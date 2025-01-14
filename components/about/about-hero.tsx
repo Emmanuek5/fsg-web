@@ -3,7 +3,7 @@ export function AboutHero() {
     <section className="relative py-24 bg-[#1c1c1c]">
       <div className="absolute inset-0">
         <div className="absolute inset-0 bg-gradient-to-br from-black/80 via-black/70 to-transparent z-10" />
-        <div className="absolute inset-0 bg-[url('/about-hero.jpg')] bg-cover bg-center opacity-50" />
+        <div className="absolute inset-0 bg-[url('/hero.jpg')] bg-cover bg-center opacity-50" />
       </div>
       
       <div className="container mx-auto px-4 relative z-20">
